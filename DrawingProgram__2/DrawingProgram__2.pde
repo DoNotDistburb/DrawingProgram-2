@@ -27,4 +27,11 @@ void setup() {
   fullScreen();
   noStroke();
   background(255);
+  fill(150);
+  rect(120, 80, 220, 220);
+  //Colours
+  fill(black);
+  rect(a+10, a+10, a, a);
+  fill(blue);
+  rect(a+e, a+10, a);
 }
